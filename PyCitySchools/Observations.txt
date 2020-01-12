@@ -1,0 +1,7 @@
+#You must include a written description of at least two observable trends based on the data.
+
+Observation #1:
+In the School Performance by Per Student Budget table, one can see that schools with less per student budget have higher percent passing rates for both subjects. 
+
+Observation #2:
+In the School Performance by School Size table, one can see that schools with fewer students have a higher percent passing rates for both subjects. 

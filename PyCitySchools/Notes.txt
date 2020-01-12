@@ -1,0 +1,12 @@
+Notes:
+
+*jupyter notebook name:  PyCitySchools.ipynb
+
+*Calculating the Percent Passing:
+Passing rate is a score of 70 or higher on either math or reading
+    
+*Calcuating the Overall Passing Rate:
+Since the math and reading scores are based off two different measurements (a math test and a reading test), and each measurement is measuring different aspects of a student's knowledge, the overall passing rate cannot be calculated by averaging the two scores to determine the overall percent passing. The calculation needs to reflect each student's score for math and reading and whether they passed in each subject. 
+
+Taking this into account, the best way to calculate the overall passing rate is by averaging the two percent passing rates (percent passing math and percent passing reading). 
+     
